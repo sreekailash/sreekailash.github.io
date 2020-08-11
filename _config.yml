@@ -28,7 +28,8 @@ twitter_username: sr_kailash
 github_username:  sreekailash
 
 # Build settings
-theme: minima
+# Removed minima theme as it is a regular theme
+# theme: minima
 plugins:
   - jekyll-feed
 
